@@ -73,7 +73,7 @@ nav a:hover {
 }
 
 .hero-content h2{
-    font-size: 38px;
+    font-size: 37.5px;
     margin: 0;
     line-height: 1.3;
     font-weight: medium;
@@ -752,4 +752,5 @@ footer p {
         background-color: #fff;
         color: #000;
     }
+
 }
